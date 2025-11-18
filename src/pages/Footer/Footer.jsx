@@ -14,7 +14,7 @@ const Footer = () => {
         <footer id='contact'>
             <div className='left-footer'>
                 <h2><IoLogoGitlab /> &nbsp; Lifestyle Asia</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea consequatur cumque, placeat quo deserunt architecto eaque enim </p>
+                <p>Lifestyle asia is the region's market leader in online luxury publishing Our team of luxury lifestyle experts are trained to deliver cutting-edge content for a demanding audience</p>
             </div>
             <div className='center-footer'>
                 <h2>Company</h2>
