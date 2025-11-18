@@ -1,5 +1,5 @@
 import React from 'react'
-import './Navbar.css'
+import './navbar.css'
 import { Link, useNavigate } from 'react-router-dom'
 import { IoLogoGitlab } from "react-icons/io5";
 import { IoIosLogOut } from "react-icons/io";

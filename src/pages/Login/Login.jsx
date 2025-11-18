@@ -28,7 +28,7 @@ const Login = () => {
   const handleLogin = () => {
     localStorage.setItem("auth", JSON.stringify(user));
     if (user.username != null && user.password != null) {
-      navigate("/");
+      navigate("/home");
     }
     else {
       alert("Fill the data")
