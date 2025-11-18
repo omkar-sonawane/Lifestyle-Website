@@ -1,6 +1,6 @@
 import React from 'react'
 import './advertise.css'
-import advertise from '../../assets/advertise.jpg'
+import advertise from '../../assets/Advertise.jpg'
 
 const Advertise = () => {
   return (
