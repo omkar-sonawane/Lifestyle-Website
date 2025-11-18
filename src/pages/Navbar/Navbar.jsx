@@ -10,7 +10,7 @@ const Navbar = () => {
   const navigate = useNavigate()
 
   const logOut = () => {
-    navigate("/login");
+    navigate("/");
     // setLogin(false);
   };
   return (
