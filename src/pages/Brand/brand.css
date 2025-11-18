@@ -1,0 +1,50 @@
+.brand-container{
+    /* border: 1px solid black; */
+    /* margin-top: 20px; */
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-between;
+}
+
+.brand-img img{
+    object-fit: cover;
+    height: 600px;
+    /* padding: 20px; */
+    margin-top: 70px;
+    margin-bottom: 80px;
+    margin-left: 100px;
+    border-radius: 30%;
+}
+.brand-right-container{
+    margin-right: 60px;
+    margin-left: 180px;
+    margin-top: 120px;
+}
+.brand-right-container h1{
+    font-size: 55px;
+    
+    /* margin-bottom: 80px; */
+    
+}
+
+.brand-right-container h2{
+    font-size:20px;
+    margin-top: 40px;
+    margin-right: 150px;
+}
+
+.brand-right-container p{
+    font-size: 18px;
+    margin-top: 30px;
+    margin-right: 150px;
+}
+
+.icons{
+    margin-top: 120px;
+    display: flex;
+    justify-content: end;
+    font-size: 35px;
+    gap: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}

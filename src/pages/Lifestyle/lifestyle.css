@@ -1,0 +1,117 @@
+.container1{
+    /* border: 1px solid black; */
+    /* margin-top: 60px; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 80px;
+    
+}
+.left1{
+    display: grid;
+    padding: 85px;
+    
+    grid-template-columns: repeat(3, 1fr);
+    gap: 5px;
+    
+}
+#img1{
+    object-fit: cover;
+    height: 200px;
+    width: 150px;
+    border: 2px solid rgba(0, 0, 0, 0.234);
+    border-top-left-radius: 50%; 
+    border-top-right-radius: 50%; 
+}
+
+#img2{
+    object-fit: cover;
+    height: 200px;
+    width: 150px;
+    border: 1px solid black;
+    border-bottom-left-radius: 50%; 
+    border-bottom-right-radius: 50%;
+    
+}
+#img3{
+    object-fit: cover;
+    height: 200px;
+    width: 150px;
+    border: 1px solid black;
+    /* border-top-right-radius: 20%; */
+    border-top-left-radius: 50%; 
+    border-top-right-radius: 50%;
+}
+#img4{
+    object-fit: cover;
+    height: 200px;
+    width: 150px;
+    border: 1px solid black;
+    border-bottom-left-radius: 50%; 
+    border-bottom-right-radius: 50%;
+}
+#img5{
+    object-fit: cover;
+    height: 200px;
+    width: 150px;
+    border: 1px solid black;
+    border-radius: 20%;
+}
+#img6{
+    object-fit: cover;
+    height: 200px;
+    width: 150px;
+    border: 1px solid black;
+    border-bottom-left-radius: 50%; 
+    border-bottom-right-radius: 50%;
+}
+#img7{
+    object-fit: cover;
+    height: 200px;
+    width: 150px;
+    border: 1px solid black;
+    /* /* border-bottom-left-radius: 20%; */
+    border-top-left-radius: 50%; 
+    border-top-right-radius: 50%;  
+}
+#img8{
+    object-fit: cover;
+   height: 200px;
+    width: 150px;
+    border: 1px solid black;
+    border-bottom-left-radius: 50%; 
+    border-bottom-right-radius: 50%;
+}
+#img9{
+    object-fit: cover;
+    height: 200px;
+    width: 150px;
+    border: 1px solid black;
+    /* border-bottom-right-radius: 20%; */
+    border-top-left-radius: 50%; 
+    border-top-right-radius: 50%; 
+}
+
+.right1{
+    margin-right: 80px;
+}
+.right1 h1{
+    font-size: 45px;
+    margin-bottom: 50px;
+    
+}
+.mini-container{
+    /* background-color: aqua; */
+    
+}
+.bar{
+    /* border: 1px solid black; */
+    background-color: rgba(128, 128, 128, 0.341);
+    border-radius: 10px;
+    padding: 30px;
+    margin-bottom: 10px;
+}
+
+.bar h2{
+    margin-bottom: 20px;
+}
